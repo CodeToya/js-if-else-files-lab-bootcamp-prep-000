@@ -3,8 +3,8 @@ var height = "70"
 
 
 
-if (name === "Susan") {
-  console.log( "The name is correct")
+if (name === "Susan" || height === "70") {
+  console.log( "The name and height are correct!" )
 }
 /* else if(name==="Joe") {
   console.log ("name " + "height")
